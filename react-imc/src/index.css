@@ -1,0 +1,30 @@
+body {
+  font-size: 2rem;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  margin-top: 10rem;
+  background: #ccc;
+}
+
+input {
+  display: block;
+  margin: 1.5rem;
+  padding: 0.6rem;
+  border-radius: 0.3rem;
+}
+
+button {
+  padding: 1rem;
+  border-radius: 0.3rem;
+}
+
+table,
+thead,
+tbody,
+tr,
+td {
+  border: 0.1rem solid black;
+  padding: 0.3rem;
+  font-size: 1.3rem;
+}
