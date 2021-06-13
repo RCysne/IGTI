@@ -14,7 +14,7 @@ class header extends React.Component {
                <li><a href="#">HOME</a></li>
                <li><a href="#">Escritório</a></li>
                <li><a href="#">Projetos</a></li>
-               <li><a href="#">Cadastro</a></li>
+               <li><a href="#sectionForm">Cadastro</a></li>
                <li><a href="#">Profissionais</a></li>
                <li><a href="#">Redes Sociais</a></li>
             </ul>

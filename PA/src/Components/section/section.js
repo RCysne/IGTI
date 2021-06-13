@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import './section.css';
 
-
-let time = 5000; // Tempo de transição
+/*
+let time = 50000; // Tempo de transição
 let currentImageIndex = 0; // Imagem inicial na posição 0
 let images = document.querySelectorAll('#slider img'); // pegando as imagens
 let max = images.length; // Quantidade de elementos para a rotaçao
@@ -30,7 +30,7 @@ function start() {
     }, time)
 }
 
-window.addEventListener('load', start); // Quando a página rodar, a função start vai iniciar
+window.addEventListener('load', start); // Quando a página rodar, a função start vai iniciar */
 
 class section extends React.Component {
     render() {
